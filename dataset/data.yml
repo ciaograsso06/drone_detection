@@ -1,0 +1,6 @@
+train: C:\Users\F8091169\Desktop\repos\drone_detection\dataset\images\train
+val: C:\Users\F8091169\Desktop\repos\drone_detection\dataset\images\valid
+test: /caminho/dataset/images/test
+
+nc: 1
+names: ["drone"]
